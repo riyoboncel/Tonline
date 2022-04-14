@@ -1,0 +1,1 @@
+buat index untuk kolom database

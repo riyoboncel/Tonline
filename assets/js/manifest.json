@@ -1,0 +1,22 @@
+{
+    "name": "Estoh Software Development",
+    "short_name": "Estoh Software",
+    "description": "Jasa Pembeuatan Program Kasir",
+    "icons": [
+        {
+            "src": "../images/favicon.png",
+            "sizes": "150x125",
+            "type": "image/png"
+        },
+        {
+            "src": "../images/favicon2.png",
+            "sizes": "512x417",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "localhost/admin",
+    "display": "fullscreen",
+    "background_color": "#007aff",
+    "theme_color": "#FF0000",
+    "add_to_home_enabled": true
+}
